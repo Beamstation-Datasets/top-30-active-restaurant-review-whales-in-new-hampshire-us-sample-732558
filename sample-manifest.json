@@ -1,0 +1,12 @@
+{
+  "export_job_id": "75b731a2-b910-4412-b5f9-f11e9a2918d9",
+  "id_short": 732558,
+  "published_at": "2026-04-16T19:14:13Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-new-hampshire-us-sample-732558",
+  "sample_asset_name": "beamstation_732558_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/732558/beamstation_732558_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_records": 83,
+  "sample_sha256": "2d0ad854b978f33bdc76735d1d388155cd99daea65a2dc7772dba12f83925cd5",
+  "sample_size_bytes": 347462,
+  "total_records": 670
+}
