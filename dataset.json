@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Review Whales in New Hampshire, US",
-  "export_job_id": "75b731a2-b910-4412-b5f9-f11e9a2918d9",
+  "export_job_id": "10d2f3aa-f7cb-40d2-8389-ef9f804c37cf",
   "github_org": "Beamstation-Datasets",
   "id_short": 732558,
   "location_name": "New Hampshire",
   "location_type": "state",
   "repo_name": "top-30-active-restaurant-review-whales-in-new-hampshire-us-sample-732558",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/732558/beamstation_732558_restaurants-us-nh_SAMPLE_DIST.csv",
-  "sample_pct": 12.39,
+  "sample_pct": 9.96,
   "sample_records": 83,
   "sample_sha256": "2d0ad854b978f33bdc76735d1d388155cd99daea65a2dc7772dba12f83925cd5",
   "sample_size_bytes": 347462,
-  "total_records": 670,
-  "updated_at": "2026-03-31T23:53:39.376566+00:00"
+  "total_records": 833,
+  "updated_at": "2026-04-15T01:42:15.665920+00:00"
 }
