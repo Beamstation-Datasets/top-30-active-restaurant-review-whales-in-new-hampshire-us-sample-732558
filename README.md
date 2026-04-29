@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in New Hampshire, US
 
-> Free BeamStation sample export with 66 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `732558` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 660 records |
-| Free sample size | 66 records (10.0%) |
-| Last export | 2026-04-22T06:23:26.230695+00:00 |
+| Full dataset size | 138 records |
+| Free sample size | 13 records (9.42%) |
+| Last export | 2026-04-29T08:29:24.720473+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-new-hampshire-us-sample-732558/releases/download/sample-latest/beamstation_732558_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
